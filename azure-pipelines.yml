@@ -29,4 +29,4 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: WhiteSource@21
+- task: WhiteSource@21 Bolt@20
